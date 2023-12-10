@@ -1,0 +1,46 @@
+.hero{
+  padding: 90px 65px;
+  display: flex;
+  height: calc(100vh-80px);
+}
+.hero img{
+  width: 600px;
+  height: 600px;
+}
+
+ .hero-content {
+  display: flex;
+  padding: 30px 80px;
+  flex-direction: column;
+}
+.hero h1 {
+  font-weight: 600;
+  line-height: 80px;
+  font-size: 60px;
+}
+.hero h2 {
+  font-weight: 600;
+  line-height: 80px;
+  font-size: 60px;
+  color: rgba(0, 34, 255, 0.678)
+}
+
+.hero p {
+  font-weight: 600;
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+.hero button {
+  font-size: 20px;
+   font-weight: 700;
+   padding: 15px 30px;
+   color: whitesmoke;
+   background-color: rgba(0, 34, 255, 0.678);
+   cursor: pointer;
+   border: none ;
+   border-radius: 21%;
+}
+
+.cloud{
+  padding-bottom: 50px;
+}

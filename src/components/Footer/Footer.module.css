@@ -1,0 +1,48 @@
+.footer{
+    display: flex;
+    padding: 2px 30px;
+    gap: 30px;
+    /* background: linear-gradient(to top,rgb(153, 153, 255),whitesmoke); */
+}
+
+.footer img{
+    width: 100%;
+    height: 70vh;
+}
+
+.box{
+    padding-top: 100px;
+}
+
+.innerbox{
+    display: flex;
+    padding-left: 20px;
+}
+.h{
+    padding: 10px;
+}
+.innerbox p{
+    font-weight: 600;
+  font-size: 20px;
+  padding-bottom: 20px;
+  text-decoration: underline;
+  
+}
+.innerbox1 p{
+    font-weight: 600;
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+
+.innerbox1{
+    display: flex;
+    padding-left: 20px;
+}
+
+.add{
+    display: flex;
+    flex-direction: column;
+}
+.add p{
+    padding-bottom: 2px;
+}

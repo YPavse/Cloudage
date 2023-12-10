@@ -1,0 +1,32 @@
+.join{
+    padding: 20px 80px;
+    display: flex;
+    max-width: 1200px;
+    border: 3px solid blue;
+    border-radius: 20px;
+  }
+
+  .join h1 {
+    font-weight: 600;
+    color: rgba(0, 34, 255, 0.678);
+    font-size: 50px;
+  }
+
+  .join button {
+    font-size: 19px;
+    font-weight: 700;
+    padding: 11px 109px;
+    color: whitesmoke;
+    background-color: rgba(0, 34, 255, 0.678);
+    cursor: pointer;
+    border: none;
+    border-radius: 4%;
+  }
+  .join p {
+    font-weight: 600;
+    font-size: 20px;
+  }
+  
+  .right{
+    padding: 80px 1px;
+  }

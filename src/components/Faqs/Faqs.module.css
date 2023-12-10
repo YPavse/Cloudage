@@ -1,0 +1,35 @@
+.faqs {
+    display: flex;
+    max-width: 1100px;
+    border-radius: 2px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    gap: 20px;
+}
+.faqs h1{
+    font-weight: 600;
+    font-size: 50px;
+}
+.outer{
+    border: 3px solid blue;    
+    font-size: 19px;
+   font-weight: 700;
+    padding: 10px;
+}
+ .inner{
+   background-color: blue;
+   padding: 20px 25px;
+   color: aliceblue;
+   border-radius: 2%;
+ }
+ .inner p{
+    font-weight: 500;
+    font-size: 25px;
+}
+ .inner1 p{
+    font-weight: 500;
+    font-size: 22px;
+}
+

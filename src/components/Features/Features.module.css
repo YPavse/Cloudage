@@ -1,0 +1,37 @@
+.feat{
+    display: flex;
+    max-width: 1200px;
+     padding-top: 150px;
+     padding-bottom: 120px;
+     align-items: center;
+    justify-content: space-between;
+}
+
+.box{
+    width: 180px;
+    height: 245px;
+    text-align: center;
+    padding: 25px 15px;
+    box-shadow: 20px 20px 35px rgba(0, 0,0 ,0.03);
+    border: 2px solid rgb(252, 240, 240);
+    border-radius: 5px;
+    margin: 15px 0px;
+}
+
+.box img{
+    width: 100%;
+    height: 80%;
+    background-size: cover;
+    margin-bottom: 10px;
+ }
+
+.box h1{
+    display: inline-block;
+   padding : 8px 8px 8px 8px ;
+line-height: 1;
+border-radius: 4px;
+color: rgb(0, 0, 0);
+background-color: rgba(0, 34, 255, 0.678);
+font-size: 20px;
+color: white;
+}

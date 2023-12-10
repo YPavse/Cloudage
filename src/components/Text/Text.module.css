@@ -1,0 +1,15 @@
+.text{
+    display: flex;
+    max-width: 1100px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.text h1 {
+    font-weight: 600;
+    color: rgba(0, 34, 255, 0.678);
+    font-size: 40px;
+    padding: 85px 0px;
+    letter-spacing: 2px;
+  }
